@@ -6,7 +6,8 @@
 ![Forks](https://img.shields.io/github/forks/ucan-lab/docker-laravel?color=f05340)
 
 ## Introduction
-Fork from ![ucan-lab/docker-laravel](https://github.com/ucan-lab/docker-laravel)
+
+Build a simple laravel development environment with docker-compose.
 
 ## Usage
 
@@ -19,8 +20,16 @@ $ make install-recommend-packages # Not required
 
 http://localhost
 
-[Makefileの詳細](https://github.com/ucan-lab/docker-laravel/blob/master/Makefile).
+Read this [Makefile](https://github.com/ucan-lab/docker-laravel/blob/master/Makefile).
 
 ## Tips
 
-Forks元の[Wiki](https://github.com/ucan-lab/docker-laravel/wiki).
+Read this [Wiki](https://github.com/ucan-lab/docker-laravel/wiki).
+
+## Laravel関連
+
+[ここ](https://github.com/b1017034/docker-laravel/blob/main/Laravel_commands.md)
+
+```bash
+$ docker-compose down -v && docker-compose up
+```
