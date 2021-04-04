@@ -6,8 +6,7 @@
 ![Forks](https://img.shields.io/github/forks/ucan-lab/docker-laravel?color=f05340)
 
 ## Introduction
-
-Build a simple laravel development environment with docker-compose.
+Fork from ![ucan-lab/docker-laravel](https://github.com/ucan-lab/docker-laravel}
 
 ## Usage
 
