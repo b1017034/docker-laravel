@@ -25,7 +25,3 @@ http://localhost
 ## Tips
 
 Forks元の[Wiki](https://github.com/ucan-lab/docker-laravel/wiki).
-
-```bash
-$ docker-compose down -v && docker-compose up
-```
